@@ -1,0 +1,250 @@
+Host:                 .alphorm.com
+Host raw:             .alphorm.com
+Name:                 ARRAffinity
+Name raw:             ARRAffinity
+Path:                 %2F
+Path raw:             /
+Content:              86b1719bd73fa4e0a9c621d45a8b5cf372a9cc36b43a7c3aa0ae36190189aa8d
+Content raw:          86b1719bd73fa4e0a9c621d45a8b5cf372a9cc36b43a7c3aa0ae36190189aa8d
+Expires:              À la fin de la session
+Expires raw:          0
+Send for:             Tout type de connexion
+Send for raw:         false
+Created:              Monday, October 10, 2016 12:09:08 PM
+Created raw:          1476090547914000
+Last accessed:        Monday, October 10, 2016 4:30:07 PM
+Last accessed raw:    1476106206723000
+HTTP only:            No
+HTTP only raw:        false
+This domain only:     Yes
+This domain only raw: true
+Policy:               no information available
+Policy raw:           0
+Status:               no information available
+Status raw:           0
+---
+Host:                 .alphorm.com
+Host raw:             .alphorm.com
+Name:                 __zlcmid
+Name raw:             __zlcmid
+Path:                 %2F
+Path raw:             /
+Content:              aYfXJLiYEYr6P5
+Content raw:          aYfXJLiYEYr6P5
+Expires:              Tuesday, October 10, 2017 4:30:14 PM
+Expires raw:          1507642214
+Send for:             Tout type de connexion
+Send for raw:         false
+Created:              Monday, May 9, 2016 11:42:22 AM
+Created raw:          1462783341838000
+Last accessed:        Monday, October 10, 2016 4:30:14 PM
+Last accessed raw:    1476106214412000
+HTTP only:            No
+HTTP only raw:        false
+This domain only:     Yes
+This domain only raw: true
+Policy:               no information available
+Policy raw:           0
+Status:               no information available
+Status raw:           0
+---
+Host:                 .alphorm.com
+Host raw:             .alphorm.com
+Name:                 _ga
+Name raw:             _ga
+Path:                 %2F
+Path raw:             /
+Content:              GA1.2.2003955300.1462365084
+Content raw:          GA1.2.2003955300.1462365084
+Expires:              Tuesday, July 31, 2018 12:30:59 PM
+Expires raw:          1533029459
+Send for:             Tout type de connexion
+Send for raw:         false
+Created:              Wednesday, May 4, 2016 3:31:24 PM
+Created raw:          1462365084340000
+Last accessed:        Monday, October 10, 2016 4:30:07 PM
+Last accessed raw:    1476106206723000
+HTTP only:            No
+HTTP only raw:        false
+This domain only:     Yes
+This domain only raw: true
+Policy:               no information available
+Policy raw:           0
+Status:               no information available
+Status raw:           0
+---
+Host:                 .alphorm.com
+Host raw:             .alphorm.com
+Name:                 _hp2_id.1125444102
+Name raw:             _hp2_id.1125444102
+Path:                 %2F
+Path raw:             /
+Content:              5643742312961057.2350443914872949.2235200599948422
+Content raw:          5643742312961057.2350443914872949.2235200599948422
+Expires:              Tuesday, July 31, 2018 11:41:13 AM
+Expires raw:          1533026473
+Send for:             Tout type de connexion
+Send for raw:         false
+Created:              Wednesday, May 4, 2016 3:31:25 PM
+Created raw:          1462365084965001
+Last accessed:        Monday, October 10, 2016 4:30:07 PM
+Last accessed raw:    1476106206723000
+HTTP only:            No
+HTTP only raw:        false
+This domain only:     Yes
+This domain only raw: true
+Policy:               no information available
+Policy raw:           0
+Status:               no information available
+Status raw:           0
+---
+Host:                 .www.alphorm.com
+Host raw:             .www.alphorm.com
+Name:                 __ar_v4
+Name raw:             __ar_v4
+Path:                 %2F
+Path raw:             /
+Content:              6IUFRUG5Z5FIHLO5PVPRTR%253A20160727%253A2%257C2Y3AKEDBPNHCDKGQXFBNPU%253A20160727%253A2%257CYTRFGMMBU5DPTER56A2B4P%253A20160727%253A2
+Content raw:          6IUFRUG5Z5FIHLO5PVPRTR%3A20160727%3A2%7C2Y3AKEDBPNHCDKGQXFBNPU%3A20160727%3A2%7CYTRFGMMBU5DPTER56A2B4P%3A20160727%3A2
+Expires:              Thursday, April 14, 2022 7:41:11 PM
+Expires raw:          1649954471
+Send for:             Tout type de connexion
+Send for raw:         false
+Created:              Tuesday, May 3, 2016 4:21:50 PM
+Created raw:          1462281710416000
+Last accessed:        Monday, October 10, 2016 4:30:07 PM
+Last accessed raw:    1476106207041000
+HTTP only:            No
+HTTP only raw:        false
+This domain only:     Yes
+This domain only raw: true
+Policy:               no information available
+Policy raw:           0
+Status:               no information available
+Status raw:           0
+---
+Host:                 www.alphorm.com
+Host raw:             www.alphorm.com
+Name:                 .AspNet.ApplicationCookie
+Name raw:             .AspNet.ApplicationCookie
+Path:                 %2F
+Path raw:             /
+Content:              EHexjsA2tOh8NkSmUZS94xzP3B64aghuiwt_p6fqG3Nnrpz01gmCe0G4If2IWe35MqWZoBS818ZthuxRwx2ivWyqvqM11wXLYXKJSpE0q0bzKfJgyJ0Ii1kVDxAfIaovAE2BEcwjrv2V5Fq8qyamXqRHEyfG2W5r2ECCH2ZBKMH9icQoNWhZNHwoYmK4W_9k2-NRNlTdYXxWeW2bszqJc9RggwJ8t8VcSYByqEUFOwD-ZcTN5iglvowQi8oqx3L5OyOd7Z_IGdfjLGBkiBPLiiuj1oLj1knDZJN5S8qK2BHh7SeO48vnbn-jHQQgAu3wEA_ZgJrT8IUIcF0UbY3AY2v7rNTY8zW91zkGsM3oVeKidpPJAQ9EMRoWzKNSKmEt
+Content raw:          EHexjsA2tOh8NkSmUZS94xzP3B64aghuiwt_p6fqG3Nnrpz01gmCe0G4If2IWe35MqWZoBS818ZthuxRwx2ivWyqvqM11wXLYXKJSpE0q0bzKfJgyJ0Ii1kVDxAfIaovAE2BEcwjrv2V5Fq8qyamXqRHEyfG2W5r2ECCH2ZBKMH9icQoNWhZNHwoYmK4W_9k2-NRNlTdYXxWeW2bszqJc9RggwJ8t8VcSYByqEUFOwD-ZcTN5iglvowQi8oqx3L5OyOd7Z_IGdfjLGBkiBPLiiuj1oLj1knDZJN5S8qK2BHh7SeO48vnbn-jHQQgAu3wEA_ZgJrT8IUIcF0UbY3AY2v7rNTY8zW91zkGsM3oVeKidpPJAQ9EMRoWzKNSKmEt
+Expires:              Monday, October 24, 2016 4:30:09 PM
+Expires raw:          1477315809
+Send for:             Tout type de connexion
+Send for raw:         false
+Created:              Monday, August 22, 2016 12:38:25 PM
+Created raw:          1471858705226000
+Last accessed:        Monday, October 10, 2016 4:30:09 PM
+Last accessed raw:    1476106208762000
+HTTP only:            Yes
+HTTP only raw:        true
+This domain only:     No
+This domain only raw: false
+Policy:               no information available
+Policy raw:           0
+Status:               no information available
+Status raw:           0
+---
+Host:                 www.alphorm.com
+Host raw:             www.alphorm.com
+Name:                 ASP.NET_SessionId
+Name raw:             ASP.NET_SessionId
+Path:                 %2F
+Path raw:             /
+Content:              kxep0e5kfnez4ipflwel5s5w
+Content raw:          kxep0e5kfnez4ipflwel5s5w
+Expires:              À la fin de la session
+Expires raw:          0
+Send for:             Tout type de connexion
+Send for raw:         false
+Created:              Monday, October 10, 2016 12:09:12 PM
+Created raw:          1476090552218000
+Last accessed:        Monday, October 10, 2016 4:30:07 PM
+Last accessed raw:    1476106207041000
+HTTP only:            Yes
+HTTP only raw:        true
+This domain only:     No
+This domain only raw: false
+Policy:               no information available
+Policy raw:           0
+Status:               no information available
+Status raw:           0
+---
+Host:                 www.alphorm.com
+Host raw:             www.alphorm.com
+Name:                 _gs
+Name raw:             _gs
+Path:                 %2F
+Path raw:             /
+Content:              2.s()c%5BDesktop%2CFirefox%2C60%3A%2CWindows%2C41.207.58.23%5D
+Content raw:          2.s()c[Desktop,Firefox,60:,Windows,41.207.58.23]
+Expires:              À la fin de la session
+Expires raw:          0
+Send for:             Tout type de connexion
+Send for raw:         false
+Created:              Monday, October 10, 2016 12:09:29 PM
+Created raw:          1476090568745001
+Last accessed:        Monday, October 10, 2016 4:30:13 PM
+Last accessed raw:    1476106213253000
+HTTP only:            No
+HTTP only raw:        false
+This domain only:     No
+This domain only raw: false
+Policy:               no information available
+Policy raw:           0
+Status:               no information available
+Status raw:           0
+---
+Host:                 www.alphorm.com
+Host raw:             www.alphorm.com
+Name:                 _gu
+Name raw:             _gu
+Path:                 %2F
+Path raw:             /
+Content:              fc43a30a-4ceb-4c82-a8a8-987bcf7cfb02
+Content raw:          fc43a30a-4ceb-4c82-a8a8-987bcf7cfb02
+Expires:              Thursday, October 8, 2026 4:30:13 PM
+Expires raw:          1791466213
+Send for:             Tout type de connexion
+Send for raw:         false
+Created:              Monday, May 2, 2016 2:58:22 PM
+Created raw:          1462190301930000
+Last accessed:        Monday, October 10, 2016 4:30:13 PM
+Last accessed raw:    1476106213248000
+HTTP only:            No
+HTTP only raw:        false
+This domain only:     No
+This domain only raw: false
+Policy:               no information available
+Policy raw:           0
+Status:               no information available
+Status raw:           0
+---
+Host:                 www.alphorm.com
+Host raw:             www.alphorm.com
+Name:                 _gw
+Name raw:             _gw
+Path:                 %2F
+Path raw:             /
+Content:              2.30197(sc~1%2Cs~o6jt9c)30597(sc~1%2Cs~o6jt9c)31054(sc~1%2Cs~o6jt9v)31093(sc~1%2Cs~o6jt9h)67115(sc~e%2Cs~oa1kuj)u%5B~0%2C~0%2C~0%2C~0%2C~0%5Dv%5B~enaui%2C~0%2C~1%5Dc%5BDesktop%2CFirefox%2C60%3A%2CWindows%2C41.207.58.106%5Da()
+Content raw:          2.30197(sc~1,s~o6jt9c)30597(sc~1,s~o6jt9c)31054(sc~1,s~o6jt9v)31093(sc~1,s~o6jt9h)67115(sc~e,s~oa1kuj)u[~0,~0,~0,~0,~0]v[~enaui,~0,~1]c[Desktop,Firefox,60:,Windows,41.207.58.106]a()
+Expires:              Tuesday, October 10, 2017 4:30:13 PM
+Expires raw:          1507642213
+Send for:             Tout type de connexion
+Send for raw:         false
+Created:              Monday, May 2, 2016 2:58:22 PM
+Created raw:          1462190301932000
+Last accessed:        Monday, October 10, 2016 4:30:13 PM
+Last accessed raw:    1476106213258000
+HTTP only:            No
+HTTP only raw:        false
+This domain only:     No
+This domain only raw: false
+Policy:               no information available
+Policy raw:           0
+Status:               no information available
+Status raw:           0
+---
